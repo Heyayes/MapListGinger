@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memory maps</string>
+    <string name="action_settings">Settings</string>
+    <string name="fileNameInput">set name of map</string>
+    <string name="quit_application">Quit</string>
+
+
+</resources>
